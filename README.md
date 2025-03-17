@@ -89,3 +89,36 @@ Directory: `/src/data/`
     }
     ```
 
+My presentation:
+
+Introduction
+
+Hi everyone, today I’m excited to present my first React-based portfolio. A few months ago, Few days ago i didnt know how react works and how its used, I had to learn it from scratch by watching YouTube videos and using resources like W3Schools. It was a challenge, but I kept pushing myself to understand and apply the concepts.My first two projects didn’t work as expected, I kept experimenting, learning, and debugging. Now, I’m excited to present my third project, which finally works.
+
+I wanted my portfolio to look professional yet visually appealing. I carefully chose a minimalist color scheme to make it both aesthetically pleasing and easy to navigate .Additionally, I focused on using a limited color palette to ensure my website is accessible, especially for users with color blindness. A minimalist approach helps in making the design clean and easy to navigate.
+
+Before diving into the project, let me first highlight some key differences between a simple JavaScript project and a React project.
+n a simple JavaScript project, updating multiple elements dynamically can be a hassle. React solves this by using reusable components and a Virtual DOM, making updates much faster and more efficient
+
+Features of the Portfolio:
+✅ Multi-page layout: Home, About, Projects, Contact
+✅ Fully responsive design
+✅ Customizable through a data file
+✅ Uses modern colors for a visually appealing look
+
+Example: "My goal was to make my portfolio both functional and stylish. The layout adapts to different screen sizes, and I’ve structured it in a way that allows easy updates."
+
+📁 Folder structure
+
+-   `/public`: publicly accessible contents (ex: images, media).
+-   `/src`: all the components used in this project.
+    -   `/src/components/`: each reusable components of each pages.
+    -   `/src/data`: configurations of the web app.
+    -   `/src/pages`: pages that include in the web app.
+
+   
+    Gathering Feedback
+
+Ask classmates for feedback:
+"What do you think about the structure and design?"
+"Any suggestions for improvements?"

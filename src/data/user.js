@@ -3,7 +3,7 @@ const INFO = {
 		title: "Vathsala K's Portfolio",
 		name: "Vathsala K",
 		email: "vathsala.kh@gmail.com",
-		logo: "./logo.png",
+		logo: "../logo.png",
 	},
 
 	socials: {

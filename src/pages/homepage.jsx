@@ -167,9 +167,9 @@ const Homepage = () => {
 							</a>
 						</div>
 
-						<div className="homepage-projects">
+						{/* <div className="homepage-projects">
 							<AllProjects />
-						</div>
+						</div> */}
 
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
@@ -194,9 +194,9 @@ const Homepage = () => {
 							</div>
 						</div>
 
-						<div className="page-footer">
+						{/* <div className="page-footer">
 							<Footer />
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>

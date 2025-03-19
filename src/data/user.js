@@ -31,7 +31,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "CI/CD Pipeline Implementation",
+			title: "Project 1",
 			description:
 				"Automated build, test, and deployment processes for a microservices-based application, leveraging Jenkins, Docker, and AWS. Streamlined the release process, cutting deployment time from hours to minutes. Improved system uptime to 99.9% through AWS infrastructure management and automated DevOps practices. Contributed to increasing API response time by 15% through performance tuning and database query optimization.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -39,7 +39,7 @@ const INFO = {
 			link: "https://github.com",
 		},
 		{
-			title: "E-commerce Web Application",
+			title: "Project 2",
 			description:
 				"Led the development of a highly scalable e-commerce platform, utilizing React.js for the front-end and Node.js/Express for the back-end. Integrated GraphQL for efficient data queries and AWS for cloud infrastructure, improving page load time by 30% and enhancing user experience.",
 				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",

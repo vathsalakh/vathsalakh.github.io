@@ -31,4 +31,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages # Deployment branch
-          folder: build # Change this if using Create React App (use 'build')
+          folder: build #  Change this if using Create React App (use 'build')

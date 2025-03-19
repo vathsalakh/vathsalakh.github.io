@@ -42,7 +42,7 @@ const Homepage = () => {
 			if (newLogoSize < oldLogoSize) {
 				if (newLogoSize > 40) {
 					setLogoSize(newLogoSize);
-					setOldLogoSize(newLogoSize);
+					setOldLogoSize(newLogoSize)
 					setStayLogo(false);
 				} else {
 					setStayLogo(true);

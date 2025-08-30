@@ -99,6 +99,15 @@ const Homepage = () => {
 								<div className="subtitle homepage-subtitle">
 									{INFO.homepage.description}
 								</div>
+
+								<div className="homepage-current-role">
+									<div className="current-role-title">
+										Currently: Full Stack Developer Intern at RewardsX
+									</div>
+									<div className="current-role-description">
+										Building secure, scalable fintech solutions with React, Node.js, and GraphQL
+									</div>
+								</div>
 							</div>
 
 							<div className="homepage-first-area-right-side">

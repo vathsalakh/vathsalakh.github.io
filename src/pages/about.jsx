@@ -48,6 +48,28 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+
+								<div className="about-skills">
+									<div className="skills-title">Technical Skills</div>
+									<div className="skills-grid">
+										<div className="skill-category">
+											<div className="skill-category-title">Languages</div>
+											<div className="skill-items">JavaScript, TypeScript, Python, Node.js</div>
+										</div>
+										<div className="skill-category">
+											<div className="skill-category-title">Frameworks & Libraries</div>
+											<div className="skill-items">React.js, Express, FastAPI, REST, GraphQL</div>
+										</div>
+										<div className="skill-category">
+											<div className="skill-category-title">Databases</div>
+											<div className="skill-items">MongoDB, PostgreSQL, MySQL</div>
+										</div>
+										<div className="skill-category">
+											<div className="skill-category-title">Cloud & DevOps</div>
+											<div className="skill-items">AWS (EC2, S3, Lambda), Docker, Kubernetes, Terraform, CI/CD</div>
+										</div>
+									</div>
+								</div>
 							</div>
 
 							<div className="about-left-side">

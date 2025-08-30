@@ -44,32 +44,37 @@ const Contact = () => {
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thank you for your interest in getting in touch with
-							me. I welcome your feedback, questions, and
-							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
+							Thank you for your interest in getting in touch with me! I'm currently working as a Full Stack Developer Intern at RewardsX and I'm always open to new opportunities, collaborations, and interesting projects. If you have a specific question, collaboration proposal, or just want to connect, please feel free to email me directly at{" "}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
-							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
+							. I make an effort to respond to all messages within 24 hours. You can also connect with me on{" "}
 							<a
-								href={INFO.socials.instagram}
+								href={INFO.socials.linkedin}
 								target="_blank"
 								rel="noreferrer"
 							>
-								{INFO.socials.instagram}
+								LinkedIn
 							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
-							Thanks again for your interest, and I look forward
-							to hearing from you!
+							{" "}or{" "}
+							<a
+								href={INFO.socials.github}
+								target="_blank"
+								rel="noreferrer"
+							>
+								GitHub
+							</a>
+							. I'm particularly interested in fintech, AI, and scalable web applications. Thanks again for your interest, and I look forward to hearing from you!
+						</div>
+
+						<div className="contact-availability">
+							<div className="availability-title">Current Focus Areas</div>
+							<div className="availability-items">
+								<div className="availability-item">🚀 Full Stack Development (React, Node.js, GraphQL)</div>
+								<div className="availability-item">🔒 Fintech Security & PCI DSS Compliance</div>
+								<div className="availability-item">☁️ Cloud Architecture & AWS</div>
+								<div className="availability-item">🤖 AI Integration & Machine Learning</div>
+							</div>
 						</div>
 					</div>
 

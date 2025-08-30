@@ -39,21 +39,12 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
+							Things I've made trying to put my dent in the
 							universe.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							I've worked on a variety of projects including fintech solutions, AI-powered applications, and content management tools. My current focus is on building secure, scalable web applications at RewardsX, where I contribute to a credit card rewards platform. I'm passionate about creating user-friendly experiences while maintaining high security standards and performance. Each project showcases different aspects of modern web development, from React and Node.js to AI integration and secure fintech solutions.
 						</div>
 
 						<div className="projects-list">
